@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorPicker-greelow/static/css/main.1b32819a.css",
+    "main.js": "/colorPicker-greelow/static/js/main.f76c75e8.js",
+    "static/js/787.b60149f1.chunk.js": "/colorPicker-greelow/static/js/787.b60149f1.chunk.js",
+    "index.html": "/colorPicker-greelow/index.html",
+    "main.1b32819a.css.map": "/colorPicker-greelow/static/css/main.1b32819a.css.map",
+    "main.f76c75e8.js.map": "/colorPicker-greelow/static/js/main.f76c75e8.js.map",
+    "787.b60149f1.chunk.js.map": "/colorPicker-greelow/static/js/787.b60149f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b32819a.css",
+    "static/js/main.f76c75e8.js"
+  ]
+}
